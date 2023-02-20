@@ -3,7 +3,7 @@ function sendToMe(name, email, wish){
     const xhr = new XMLHttpRequest();
     const url = "https://script.google.com/macros/s/AKfycbx5o9fyX5zCZGsMjulv4J8gQtpuHQcx8zEF2vKw3fstokXuevN6maRWly9xaqrYilYc/exec";
     xhr.open("POST", url, true);
-    xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded"; charset=UTF-8');
     xhr.send(e);
 }
 
