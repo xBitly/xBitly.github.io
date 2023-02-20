@@ -15,9 +15,9 @@ const wishInput = form.querySelector('textarea[name="wish"]');
 form.addEventListener('submit', function(event) {
     event.preventDefault();
 
-    const name = nameInput.value;
-    const email = emailInput.value;
-    const wish = wishInput.value;
+    const name = encodeURIComponent(nameInput.value);
+    const email = encodeURIComponent(emailInput.value);
+    const wish = encodeURIComponent(wishInput.value);
 
     sendToMe(name, email, wish);
 
