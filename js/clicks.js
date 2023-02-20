@@ -11,6 +11,6 @@ function sendToServer(name){
 
 for(let i=0; i<links.length; i++) {
     links[i].addEventListener("click", function() {
-        sendToServer(links[i].getAttribute("name"));
+        sendToServer(links[i].getAttribute("id"));
     });
 }
