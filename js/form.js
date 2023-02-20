@@ -1,7 +1,7 @@
 function sendToMe(name, email, wish){
     const e = "name=" + name + "&email=" + email + "&wish=" + wish;
     const xhr = new XMLHttpRequest();
-    const url = "https://script.google.com/macros/s/AKfycbx5o9fyX5zCZGsMjulv4J8gQtpuHQcx8zEF2vKw3fstokXuevN6maRWly9xaqrYilYc/exec";
+    const url = "https://script.google.com/macros/s/AKfycbxshr08-eXb4WipBJOSvc07qXy8p9-a5S7ji5HiKHHvaOLG_QDjeCcH84-Cm0Q4Of6B/exec";
     xhr.open("POST", url, true);
     xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
     xhr.send(e);
