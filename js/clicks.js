@@ -9,6 +9,7 @@ function sendToServer(name){
     xhr.send(e);
 }
 
+
 for(let i=0; i<links.length; i++) {
     links[i].addEventListener("click", function() {
         sendToServer(links[i].getAttribute("id"));
