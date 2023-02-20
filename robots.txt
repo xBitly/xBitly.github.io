@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xbitly.com/sitemap.xml
