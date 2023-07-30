@@ -1,19 +1,12 @@
-@font-face {
-    font-family: 'Dela Gothic One';
-    src: url('https://xbitly.ru/fonts/dela/dela.ttf');
-}
 
-@font-face {
-    font-family: 'Ubuntu';
-    src: url('https://xbitly.ru/fonts/ubuntu/ubuntu.ttf');
-}
 
 html, body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
     height: 100%;
 }
 
 body {
-    font-family: 'Dela Gothic One', 'Ubuntu';
     color: #DFFFDE;
     font-weight: bold;
     background-color: #111111;
