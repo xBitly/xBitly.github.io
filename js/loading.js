@@ -39,7 +39,7 @@ function addElementsForLargeScreens() {
                 </div>
                 <div class="horizontal-right">
                     <div class="photo">
-                        <img src="assets/photo.png">
+                        <img src="https://xbitly.ru/assets/photo.png">
                     </div>
                     <div class="vertical">
                         <div class="container-space">
