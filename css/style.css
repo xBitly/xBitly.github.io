@@ -367,7 +367,7 @@ a {
     box-sizing: border-box;
     background: #333333;
     border-radius: 20px;
-    padding: 10px;
+    padding: 20px 10px;
     display: flex;
     justify-content: center;
     align-items: center;
