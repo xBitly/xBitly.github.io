@@ -1,5 +1,3 @@
-
-
 html, body {
     font-family: "Poppins", sans-serif;
     font-weight: 800;
@@ -9,7 +7,7 @@ html, body {
 body {
     color: #DFFFDE;
     font-weight: bold;
-    background-color: #111111;
+    background-color: #222222;
 }
 
 .center {
@@ -28,7 +26,7 @@ h1 {
 .glitch {
     position: relative;
     margin: 0 auto;
-    background: #111111;
+    background: #222222;
 }
 
 .glitch::before,
@@ -51,8 +49,8 @@ h1 {
     -webkit-animation-duration: 4s;
     animation-duration: 4s;
     left: 4px;
-    text-shadow: -1px 0 #B9FFC0;
-    background: #111111;
+    text-shadow: -1px 0 #CCFF00;
+    background: #222222;
 }
 
 .glitch::before {
@@ -61,8 +59,8 @@ h1 {
     -webkit-animation-duration: 6s;
     animation-duration: 6s;
     left: -4px;
-    text-shadow: 1px 0 #B9FFC0;
-    background: #111111;
+    text-shadow: 1px 0 #CCFF00;
+    background: #222222;
 }
 
 @-webkit-keyframes glitch-animation {
