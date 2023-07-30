@@ -90,7 +90,7 @@
     align-items: flex-start;
 }
 
-body {
+html, body {
     margin: 0;
     padding: 10px;
     font-family: "Poppins", sans-serif;
@@ -791,7 +791,7 @@ a {
         justify-content: center;
         align-items: center;
         padding-top: 20px;
-        flex: 1 1 100%;
+        flex: 1 1 auto;
     }
     .map-container {
         width: 100%;
