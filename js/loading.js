@@ -8,7 +8,7 @@ function addElementsForSmallScreens() {
                         <a class="sub-title" href="https://xbitly.ru" id="reload">with me —></a>
                     </div>
                 </div>
-                <div class="photo">
+                <div class="photo-mobile">
                     <img src="https://xbitly.ru/assets/photo2.png">
                 </div>
                 <div class="container-space">
@@ -348,4 +348,3 @@ function updateContentBasedOnScreenSize() {
 }
 
 window.onload = updateContentBasedOnScreenSize;
-window.onresize = updateContentBasedOnScreenSize;
