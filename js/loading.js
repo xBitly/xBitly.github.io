@@ -39,7 +39,7 @@ function addElementsForLargeScreens() {
                 </div>
                 <div class="horizontal-right">
                     <div class="photo">
-                        <img src="https://xbitly.ru/assets/photo.png">
+                        <img src="assets/photo.png">
                     </div>
                     <div class="vertical">
                         <div class="container-space">
@@ -183,7 +183,7 @@ function updateContentBasedOnScreenSize() {
     const screenWidth = window.innerWidth;
     const screenHeight = window.innerHeight;
 
-    if (screenWidth >= 1254 && screenHeight >= 677) {
+    if (screenWidth >= 1250 && screenHeight >= 675) {
         addElementsForLargeScreens();
     } else {
         addElementsForSmallScreens();
