@@ -387,7 +387,7 @@ a {
 }
 .text {
     text-align: center;
-    color: white;
+    color: #999999;
     font-size: 14px;
     font-weight: 400;
     word-wrap: break-word;
@@ -500,7 +500,7 @@ a {
     }
     .text {
         text-align: center;
-        color: white;
+        color: #999999;
         font-size: 16px;
         font-weight: 400;
         word-wrap: break-word;
