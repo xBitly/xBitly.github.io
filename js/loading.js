@@ -117,7 +117,7 @@ function addElementsForSmallScreens() {
                 <div class="big-bottom-about">
                     <div class="header-title">
                         <div class="title-text">About</div>
-                        <a class="button-text" href="#" id="resume">Resume</a>
+                        <a class="button-text" href="https://xbitly.ru/resume.pdf" id="resume">Resume</a>
                     </div>
                     <div class="text-main">
                         <span class="description">I am a <span class="highlight">Middle Android developer</span> and also a <span class="highlight">Beginner Backend developer</span>. I implement the most complex design solutions and try to write the most optimized and scalable code. I have experience working with a team and experience developing highly loaded systems.</span>
@@ -325,7 +325,7 @@ function addElementsForLargeScreens() {
                 <div class="big-bottom-about">
                     <div class="header-title">
                         <div class="title-text">About</div>
-                        <a class="button-text" href="#" id="resume">Resume</a>
+                        <a class="button-text" href="https://xbitly.ru/resume.pdf" id="resume">Resume</a>
                     </div>
                     <div class="text-main">
                         <span class="description">I am a <span class="highlight">Middle Android developer</span> and also a <span class="highlight">Beginner Backend developer</span>. I implement the most complex design solutions and try to write the most optimized and scalable code. I have experience working with a team and experience developing highly loaded systems.</span>
