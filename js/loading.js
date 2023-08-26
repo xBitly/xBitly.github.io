@@ -147,7 +147,7 @@ function addElementsForSmallScreens() {
                     <div class="title-text">Projects</div>
                     <div class="projects-list">
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="#" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
+                            <span class="description"> <a class="highlight" href="https://youtu.be/lBnBidXG4Fs" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
                         </div>
                         <div class="project-item">
                             <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Android application </span>
@@ -311,7 +311,7 @@ function addElementsForLargeScreens() {
                     <div class="title-text">Projects</div>
                     <div class="projects-list">
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="#" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
+                            <span class="description"> <a class="highlight" href="https://youtu.be/lBnBidXG4Fs" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
                         </div>
                         <div class="project-item">
                             <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Android application </span>
