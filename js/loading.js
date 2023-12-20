@@ -147,13 +147,13 @@ function addElementsForSmallScreens() {
                     <div class="title-text">Projects</div>
                     <div class="projects-list">
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://youtu.be/lBnBidXG4Fs" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
+                            <span class="description"> <a class="highlight" href="https://tocoapp.site" target="_blank" id="toco" >ToCo</a>  — Lead Android developer</span>
                         </div>
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Android application </span>
+                            <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Lead Android developer</span>
                         </div>
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://github.com/xBitly/Nolimy" target="_blank" id="nolimy">Nolimy</a>  — Android application </span>
+                            <span class="description"> <a class="highlight" href="https://xbitly.ru/Nolimy.pdf" target="_blank" id="nolimy">Nolimy</a>  — Founder</span>
                         </div>
                         <div class="more-projects">and others...</div>
                     </div>
@@ -311,13 +311,13 @@ function addElementsForLargeScreens() {
                     <div class="title-text">Projects</div>
                     <div class="projects-list">
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://youtu.be/lBnBidXG4Fs" target="_blank" id="toco" >ToCo</a>  — Backend & Android application </span>
+                            <span class="description"> <a class="highlight" href="https://tocoapp.site" target="_blank" id="toco" >ToCo</a>  — Lead Android developer</span>
                         </div>
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Android application </span>
+                            <span class="description"> <a class="highlight" href="https://allsee.tilda.ws" target="_blank" id="autocoach">AutoCoach</a>  — Lead Android developer</span>
                         </div>
                         <div class="project-item">
-                            <span class="description"> <a class="highlight" href="https://github.com/xBitly/Nolimy" target="_blank" id="nolimy">Nolimy</a>  — Android application </span>
+                            <span class="description"> <a class="highlight" href="https://xbitly.ru/Nolimy.pdf" target="_blank" id="nolimy">Nolimy</a>  — Founder</span>
                         </div>
                         <div class="more-projects">and others...</div>
                     </div>
